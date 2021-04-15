@@ -12,7 +12,7 @@ for devices in devices_list:
     ios_device = {
         'device_type': 'cisco_ios',
         'ip': ip_address_of_device,
-        'username': 'david',
+        'username': 'mohamed',
         'password': 'cisco'
     }
 
