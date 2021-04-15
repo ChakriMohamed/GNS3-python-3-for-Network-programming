@@ -6,7 +6,7 @@ boot-end-marker
 !
 enable password cisco
 !
-username david privilege 15 password 0 cisco
+username mohamed privilege 15 password 0 cisco
 no aaa new-model
 !
 !
